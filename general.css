@@ -1,0 +1,13 @@
+p{ font-family: Roboto,Arial;}
+.thumbnail{
+    width: 300px;
+}
+body{
+    margin: 0;
+    padding-top: 85px;
+    padding-left: 75px;
+}
+a{
+    color: black;
+    border: none;
+}
